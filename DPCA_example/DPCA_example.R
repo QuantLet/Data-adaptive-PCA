@@ -34,6 +34,7 @@ grid_finder = function(lon, lat, full.lon, full.lat, plot = TRUE) {
 
 ASIA <- grid_finder(c(120, 140), c(30, 50), 360, 180, plot = FALSE)
 
+load("max_prec.Rdata")
 y = max_prec[, ASIA]
 
 fit0 = comp_Pseudo(y, 4)
