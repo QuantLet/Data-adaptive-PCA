@@ -12,7 +12,7 @@ See also: DPCA_source_code
 
 Author: OH H. S., Lim Y.
 
-Submitted:  20160728 Burdejova Petra
+Submitted:  2016.07.28
 
 Datafile: max_prec.RData
 
